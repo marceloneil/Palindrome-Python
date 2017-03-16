@@ -1,0 +1,9 @@
+{"foo":"bar"}
+{"key":"racecar"}
+{"key":"not a palindrome","word":"sentence"}
+not a valid json
+{"key":"lol", "word":"sentence"}
+
+more
+
+{"key":"test"}
